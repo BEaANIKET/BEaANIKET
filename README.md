@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [BEaANIKET](BEaANIKET)
+- 👨‍💻 All of my projects are available at [365-days-of-code](BEaANIKET)
 
 - 📫 How to reach me **aniketchaturvedi309@gmail.com**
 
