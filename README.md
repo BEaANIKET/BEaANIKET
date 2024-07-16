@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [365-Days-of-code-challenge](https://github.com/BEaANIKET/365-Days-of-code-challenge)
-
 - 📫 How to reach me **aniketchaturvedi309@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
